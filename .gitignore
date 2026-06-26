@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*_cleaned.xlsx
+*_chart_*.png
+.venv/
+venv/
+.DS_Store
